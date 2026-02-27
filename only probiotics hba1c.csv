@@ -1,0 +1,11 @@
+Study,Mean_Treatment,SD_Treatment,N_Treatment,Mean_Control,SD_Control,N_Control
+"Palacios et al., 2020",-0.2,0.5,30,0.1,0.3,30
+"Zikou et al., 2023",-0.73,0.42,46,-0.14,0.46,45
+"Peng et al., 2024",-0.44,0.12,103,-0.33,0.094,110
+"Cuthill et al., 2025",0.1,0.84,65,0,0.63,65
+"Jiang et al., 2021",-0.87,2,42,-0.33,2.36,34
+"Kobyliak et al., 2018",-0.24,0.26,31,-0.09,0.35,22
+"Tonucci et al., 2017",-0.67,1.63,22,0.11,1.33,23
+"Firouzi et al., 2017",-0.14,0.41,48,-0.01,0.41,53
+"Khalili et al., 2019",-0.24,0.53,20,0.08,0.27,20
+"Mafi et al., 2018",-0.1,0.2,30,-0.003,0.1,30
